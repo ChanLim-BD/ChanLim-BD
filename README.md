@@ -11,7 +11,7 @@
   * <a href=https://velog.io/@chan9708><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanLim-BD&bg_color=30,7242f5,a4d2f5&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanLim-BD&theme=solarized-dark&show_icons=true)
 <br>
 
 ### 🌱 Interest <br>
