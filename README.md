@@ -14,6 +14,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanLim-BD&theme=solarized-dark&show_icons=true)
 <br>
 
+\\<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanLim-BD)](https://github.com/ChanLim-BD/github-readme-stats)-->
+
+
 ### 🌱 Interest <br>
 
 - interested in `DevOps` and `Backend`.
