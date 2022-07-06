@@ -41,3 +41,12 @@
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
   ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+  
+---
+
+## 🌈 Contact Me 🌈
+<p align="center">
+  <a href="https://www.instagram.com/ilnnchxnn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-thebadge&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_nini99/"/></a>&nbsp
+  <a href="mailto:linsay070@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-thebadge&logo=Gmail&logoColor=white&link=linsay070@gmail.com"/></a>
+</p>
+   <br/>
