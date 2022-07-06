@@ -5,15 +5,19 @@
 
 ### 🧑🏻‍💻 Profile
 * <b>Chan Lim, 임찬</b>
-  * _Soongsil Univ_
-  * _Major : AI Convergions_ 
-  * _e-mail: linsay070@gmail.com_
-  * _📔  My Blog : <a href=https://velog.io/@chan9708>Click Here!</a>_
+  * `_Soongsil Univ_`
+  * `_Major : AI Convergions_`
+  * <img src = "https://img.shields.io/badge/linsay070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  * <a href=https://velog.io/@chan9708><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanLim-BD&bg_color=30,7242f5,a4d2f5&title_color=fff&text_color=fff)
 <br>
 
 ### 🌱 Interest <br>
+
+- interested in `DevOps` and `Backend`.
+
 <b>Skills that I can do, and currently studying.</b>
   
   - _Language_
