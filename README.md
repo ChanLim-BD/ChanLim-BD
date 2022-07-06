@@ -53,3 +53,7 @@
   <a href="mailto:linsay070@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-thebadge&logo=Gmail&logoColor=white&link=linsay070@gmail.com"/></a>
 </p>
    <br/>
+   
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
