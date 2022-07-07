@@ -4,14 +4,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanLim-BD%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🧑🏻‍💻 Profile
-* <b>Chan Lim, 임찬</b>
+* <b>Chan Lim, 임찬</b> <img align='right' img src="https://github-readme-stats.vercel.app/api?username=ChanLim-BD&theme=solarized-dark&show_icons=true"/>
   * `Soongsil Univ`
   * `Major : AI Convergions`
-  * <a href="mailto:linsay070@gmail.com"><img src = "https://img.shields.io/badge/linsay070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=linsay070@gmail.com"/></a>
+  * <a href="mailto:linsay070@gmail.com"><img src = "https://img.shields.io/badge/linsay070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=linsay070@gmail.com"/></a> 
   * <a href=https://velog.io/@chan9708><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanLim-BD&theme=solarized-dark&show_icons=true)
 <br>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanLim-BD)](https://github.com/ChanLim-BD/github-readme-stats)-->
