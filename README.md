@@ -7,8 +7,8 @@
 
 ### 🧑🏻‍💻 Profile
 * <b>Chan Lim, 임찬</b> <img align='right' img src="https://github-readme-stats.vercel.app/api?username=ChanLim-BD&theme=solarized-dark&show_icons=true"/>
-  * `Soongsil Univ`
-  * `Major : AI Convergions`
+  * <span style="font-size:40px">`Soongsil Univ`</span>
+  * <span style="font-size:40px">`Major : AI Convergions`</span>
   * <a href="mailto:linsay070@gmail.com"><img src = "https://img.shields.io/badge/linsay070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=linsay070@gmail.com"/></a> 
   * <a href=https://velog.io/@chan9708><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
   
