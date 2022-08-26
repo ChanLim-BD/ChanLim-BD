@@ -6,7 +6,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bca6f804-eb96-46ae-916e-73a2601a900e/deploy-status)](https://app.netlify.com/sites/channelpic/deploys)
 
 ### 🧑🏻‍💻 Profile
-* <b>Chan Lim, 임찬</b> <img align='right' img src="https://github-readme-stats.vercel.app/api?username=ChanLim-BD&theme=solarized-dark&show_icons=true"/>
+* <b>Chan Lim, 임찬</b> 
   * <span style="font-size:40px">`Soongsil Univ`</span>
   * <span style="font-size:40px">`Major : AI Convergions`</span>
   * <a href="mailto:linsay070@gmail.com"><img src = "https://img.shields.io/badge/linsay070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=linsay070@gmail.com"/></a> 
@@ -15,12 +15,15 @@
 
 <br>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanLim-BD)](https://github.com/ChanLim-BD/github-readme-stats)-->
-
 
 ### 🌱 Interest <br>
 
 - interested in `DevOps` and `Backend`.
+
+# Skills
+
+<details markdown="1">
+<summary><strong> Summary </strong></summary>
 
 # `Skills that I use Everyday.`
   
@@ -56,8 +59,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  
-  
+    
 # `Skills that I used once.`
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -74,8 +76,17 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</details>
   
-  
+---
+
+# Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChanLim-BD&theme=solarized-dark&show_icons=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanLim-BD)](https://github.com/ChanLim-BD/github-readme-stats)
+
+
 ---
 
 ## 🌈 Contact Me 🌈
