@@ -25,7 +25,7 @@
 <details markdown="1">
 <summary><strong> Summary </strong></summary>
 
-# `Skills that I use Everyday.`
+# `Skills`
   
   - _Language_
   
