@@ -5,15 +5,19 @@
 
 
 ### 🧑🏻‍💻 Profile
-* <b>Chan Lim, 임찬</b> 
+* <b>Chan Lim, 임찬</b>
   * <span style="font-size:40px">`Soongsil Univ`</span>
   * <span style="font-size:40px">`Major : AI Convergions`</span>
   
 
 
-### 🌱 Interest <br>
+### 🌱 Goal <br>
 
-- interested in `DevOps` and `Backend` based on Python Django, DRF (and FastAPI).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0983F7&background=7D9B9C22&vCenter=true&repeat=false&width=2200&lines=Snowflake+Engineer+-%3E+Python+Backend+Developer+and+DevOps+Engineer+on+Cloud+Infrastructure.)](https://git.io/typing-svg)
+
+### 🌱 Interests <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&letterSpacing=&pause=1000&color=0983F7&background=7D9B9C22&vCenter=true&repeat=false&width=1230&lines=interested+in+%60DevOps%60+and+%60Backend%60+based+on+Python+Django%2C+DRF+(and+FastAPI).)](https://git.io/typing-svg)
 
 # Skills
 
@@ -60,7 +64,7 @@
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
   
     
-# `Skills that I have a experience.`
+# `I have experience doing them.`
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
