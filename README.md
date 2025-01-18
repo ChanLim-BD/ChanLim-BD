@@ -8,8 +8,6 @@
 * <b>Chan Lim, 임찬</b> 
   * <span style="font-size:40px">`Soongsil Univ`</span>
   * <span style="font-size:40px">`Major : AI Convergions`</span>
-  * <a href="mailto:linsay070@gmail.com"><img src = "https://img.shields.io/badge/linsay070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=linsay070@gmail.com"/></a> 
-  * <a href=https://velog.io/@chan9708><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
   
 
 
@@ -41,16 +39,13 @@
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
   ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=Snowflake&logoColor=white)
  
-  - _Infra + Cloud_
+  - _Infra + Cloud + DevOps_
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-  
-  - _DevOps_
-  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
   ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
@@ -65,7 +60,7 @@
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
   
     
-# `Skills that I used once.`
+# `Skills that I have a experience.`
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
