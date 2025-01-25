@@ -19,29 +19,32 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&letterSpacing=&pause=1000&color=0983F7&background=7D9B9C22&vCenter=true&repeat=false&width=1230&lines=interested+in+%60DevOps%60+and+%60Backend%60+based+on+Python+Django%2C+DRF+(and+FastAPI).)](https://git.io/typing-svg)
 
-# Skills
 
-<details markdown="1">
-<summary><strong> Summary </strong></summary>
 
 # `Skills`
   
   - _Language_
   
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-  ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
   ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
+
   
   - _Back-End_
 
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+  ![Celery](https://img.shields.io/badge/Celery-37814A.svg?&logo=Celery&logoColor=white">)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
   
-  - _Database_
+  
+  - _Data_
 
   ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
   ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=Snowflake&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=Apachekafka&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=Apacheairflow&logoColor=white)
  
   - _Infra + Cloud + DevOps_
 
@@ -50,6 +53,7 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
   ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
@@ -63,23 +67,21 @@
   ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
   ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
   
-    
-# `Tech I've used at least once`
+
+<details markdown="1">
+<summary><strong> Tech I've used at least Twice </strong></summary>
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 
