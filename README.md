@@ -32,8 +32,9 @@
   - _Back-End_
 
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-  ![Celery](https://img.shields.io/badge/Celery-37814A.svg?&logo=Celery&logoColor=white">)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+  ![Celery](https://img.shields.io/badge/Celery-37814A.svg?&logo=Celery&logoColor=white">)
+
   
   
   - _Data_
