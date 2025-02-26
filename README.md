@@ -46,6 +46,7 @@
   ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=Snowflake&logoColor=white)
   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=Apachekafka&logoColor=white)
   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=Apacheairflow&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)
  
   - _Infra + Cloud + DevOps_
 
